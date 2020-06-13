@@ -5,9 +5,9 @@
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
 
 <p>
-   <img src="thyroidfunction.gif" width="900" height="473" align="center">
+   <img src="thyroidfunction.gif" width="900" height="950" align="center">
   
-  <img src="thyroidreg2..jpeg" width="1" height="1" align="center">
+  <img src="thyroidreg2..jpeg" width="0" height="0" align="center">
   </p>
 >
 
@@ -37,6 +37,7 @@ visualization of  the models created.
 # Data Features
 
 Dataset
+
 The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv) has the following features:
 
 **Dataset Columns**
@@ -66,8 +67,8 @@ The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-c
 > * Save a copy of the notebook in your drive and open it to access.
 # Technologies used
 <p>
- # <img src="tech4.jpg" width="850" height="273" align="center" alt="DS" title="Requirements" />
- ### <img src="tech1..png" width="1" height="1" align="center" alt="DS" title="Requirements" />
+  <img src="tech4.jpg" width="850" height="500" align="center" alt="DS" title="Requirements" />
+  <img src="tech1..png" width="0" height="0" align="center" alt="DS" title="Requirements" />
 </p>
 
 # Support
