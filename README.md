@@ -5,9 +5,9 @@
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
 
 <p>
-  # <img src="thyroid-2.gif" width="900" height="473" align="center">
+   <img src="thyroidfunction.gif" width="900" height="473" align="center">
   
-  <img src="thyroidreg2.jpeg" width="900" height="473" align="center">
+  <img src="thyroidreg2..jpeg" width="900" height="473" align="center">
   </p>
 >
 
@@ -37,7 +37,7 @@ visualization of  the models created.
 # Data Features
 
 Dataset
-The [dataset](https://github.com/abel-keya/week_7_IP_Abel_Keya_hass_consulting-_company_with_quantile_and__regularization_based_regression_tech/blob/master/Independent%20Project%20Week%207%20-%20house_data.csv) has the following features:
+The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv) has the following features:
 
 **Dataset Columns**
 * Age
@@ -67,7 +67,7 @@ The [dataset](https://github.com/abel-keya/week_7_IP_Abel_Keya_hass_consulting-_
 # Technologies used
 <p>
  # <img src="tech4.jpg" width="850" height="273" align="center" alt="DS" title="Requirements" />
-  <img src="tech1.png" width="850" height="273" align="center" alt="DS" title="Requirements" />
+ ### <img src="tech1..png" width="850" height="273" align="center" alt="DS" title="Requirements" />
 </p>
 
 # Support
