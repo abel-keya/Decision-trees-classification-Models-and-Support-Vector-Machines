@@ -27,10 +27,15 @@ Build a model that determines whether or not the patient's symptoms indicate tha
 visualization of  the models created. 
 
 # Context
+<p>
+### Hypothyroidism: (Underactive Thyroid) Too Little Thyroid Hormone
+Hypothyroidism is a condition in which the thyroid gland is not able to produce enough thyroid hormone. Since the main purpose of thyroid hormone is to "run the body's metabolism," it is understandable that people with this condition will have symptoms associated with a slow metabolism.
+   </p>
+   [Clinical procedure used for obtaining datat](https://www.youtube.com/watch?v=iIO09kGSRkI)
+  [More information] (https://www.youtube.com/watch?v=XR4nOMp_bGA)
 
 # Data Features
 Dataset
-
 The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv) has the following features:
 
 **Dataset Columns**
