@@ -5,20 +5,23 @@
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
 
 <p>
-  <img src="thyroid-2.gif" width="900" height="473" align="center">
+  #<img src="thyroid-2.gif" width="900" height="473" align="center">
+  
+  <img src="thyroidre2.jpeg" width="900" height="473" align="center">
   </p>
-
 >
 # Description
 >
 Part 1: Decision trees:
-- For this section, you should build a model that makes the above prediction. You should not use individual decision trees, rather you should use at least 2 out of the 3 advanced models we have studied: Random forests, Ada boosted trees, and gradient boosted trees.
-- Try and optimize each of the 2 models, making sure to document how you've set up your hyperparameters.
-- Identify which of the 2 models you trust most, and use your model to determine which features are most impactful in influencing the prediction
+- Boosted Decision Tree models that makes the above prediction. 
+* Random forests,
+* Ada boosted trees,
+* gradient boosted trees.
+- optimization of each of the the above models to Identify the best model, and used the best model to determine which features are most impactful in influencing the prediction
+
 Part 2: SVM:
-- The project code applies Polynomial, linear and rbf kernel function to build the SVM model and then evaluate their performance and pick the kernel that performs the best. 
--  After getting your best performing kernel, use this kernel together with your tuned parameters and repeat the prediction but this time using additional features. Compare the model you've just created with the 2-features version. 
-tuning of the parameters to improve the performance of your model. 
+- The project code applies Polynomial, linear and rbf kernel function to build the SVM model and then evaluates their performance and then  pick the kernel that performs the best. 
+- the best kernel is  used with tuned parameters and  additional features. 
 visualization of  the models created. 
 >
 
@@ -57,7 +60,8 @@ The [dataset](https://github.com/abel-keya/week_7_IP_Abel_Keya_hass_consulting-_
 > * Save a copy of the notebook in your drive and open it to access.
 # Technologies used
 <p>
-  <img src="tech4.jpg" width="850" height="273" align="center" alt="DS" title="Requirements" />
+ # <img src="tech4.jpg" width="850" height="273" align="center" alt="DS" title="Requirements" />
+  <img src="tech1.png" width="850" height="273" align="center" alt="DS" title="Requirements" />
 </p>
 
 # Support
