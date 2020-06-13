@@ -5,14 +5,17 @@
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
 
 <p>
-  #<img src="thyroid-2.gif" width="900" height="473" align="center">
+  # <img src="thyroid-2.gif" width="900" height="473" align="center">
   
-  <img src="thyroidre2.jpeg" width="900" height="473" align="center">
+  <img src="thyroidreg2.jpeg" width="900" height="473" align="center">
   </p>
 >
+
 # Description
+
 >
 Part 1: Decision trees:
+
 - Boosted Decision Tree models that makes the above prediction. 
 * Random forests,
 * Ada boosted trees,
@@ -20,6 +23,7 @@ Part 1: Decision trees:
 - optimization of each of the the above models to Identify the best model, and used the best model to determine which features are most impactful in influencing the prediction
 
 Part 2: SVM:
+
 - The project code applies Polynomial, linear and rbf kernel function to build the SVM model and then evaluates their performance and then  pick the kernel that performs the best. 
 - the best kernel is  used with tuned parameters and  additional features. 
 visualization of  the models created. 
@@ -31,8 +35,10 @@ visualization of  the models created.
 >
 
 # Data Features
+
 Dataset
 The [dataset](https://github.com/abel-keya/week_7_IP_Abel_Keya_hass_consulting-_company_with_quantile_and__regularization_based_regression_tech/blob/master/Independent%20Project%20Week%207%20-%20house_data.csv) has the following features:
+
 **Dataset Columns**
 * Age
 * Sex
