@@ -9,11 +9,9 @@ Build a model that determines whether or not the patient's symptoms indicate tha
   
   <img src="thyroidreg2..jpeg" width="0" height="0" align="center">
   </p>
->
 
 # Description
 
->
 ### Part 1: Decision trees:
 
 - Boosted Decision Tree models that makes the above prediction. 
@@ -27,15 +25,10 @@ Build a model that determines whether or not the patient's symptoms indicate tha
 - The project code applies Polynomial, linear and rbf kernel function to build the SVM model and then evaluates their performance and then  pick the kernel that performs the best. 
 - the best kernel is  used with tuned parameters and  additional features. 
 visualization of  the models created. 
->
 
->
 # Context
 
->
-
 # Data Features
-
 Dataset
 
 The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv) has the following features:
@@ -48,7 +41,7 @@ The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-c
 * on_antithyroid_medicationthyroid_surgery
 * query_hypothyroid
 * query_hyperthyroid
-8 pregnant
+*  pregnant
 * sick
 * tumor
 * lithium
@@ -59,7 +52,7 @@ The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-c
 * T3
 * TT4_measured
 * TT4
->
+
 # Requirements
 * Anaconda installation
 * Google colab
