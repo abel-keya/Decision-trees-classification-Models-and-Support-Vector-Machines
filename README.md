@@ -5,7 +5,7 @@
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
 
 <p alignment="center">
-   <img src="thyroidfunction.gif" width="250" height="275" align="center">
+   <img src="thyroidfunction.gif" width="850" height="975" align="center">
   
   <img src="thyroidreg2..jpeg" width="0" height="0" align="center">
   </p>
