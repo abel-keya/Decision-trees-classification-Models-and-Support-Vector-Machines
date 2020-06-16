@@ -5,7 +5,7 @@
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
 
 <p alignment="center">
-   <img src="thyroidfunction.gif" width="850" height="975" align="center">
+   <img src="thyroid8" width="850" height="975" align="center">
   
   <img src="thyroidreg2..jpeg" width="0" height="0" align="center">
   </p>
@@ -52,7 +52,7 @@ The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-c
 > * Save a copy of the notebook in your drive and open it to access.
 # Technologies used
 <p>
-  <img src="tech4.jpg" width="850" height="250" align="center" alt="DS" title="Requirements" />
+  <img src="tech3.jpg" width="850" height="250" align="center" alt="DS" title="Requirements" />
  
 </p>
 
