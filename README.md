@@ -55,7 +55,7 @@ The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-c
 * Setup instruction
 > * Save a copy of the notebook in your drive and open it to access.
 
-<p align="center">
+<p align="left">
    
    # Technologies used:
    
