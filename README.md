@@ -8,7 +8,7 @@ Use the healthcare datasets provided to accomplish the following: .
    
 # Description
 
-### Part 1: Decision trees:
+### Solution 1: Decision trees:
 
 - Boosted Decision Tree models that makes the above prediction. 
 * Random forests,
@@ -17,7 +17,7 @@ Use the healthcare datasets provided to accomplish the following: .
 </p>
 - optimization of each of the the above models to Identify the best model, and used the best model to determine which features are most impactful in influencing the prediction
 
-### Part 2: SVM:
+### Solution 2: SVM:
 
 - The project code applies Polynomial, linear and rbf kernel function to build the SVM model and then evaluates their performance and then  pick the kernel that performs the best. 
 - the best kernel is  used with tuned parameters and  additional features. 
