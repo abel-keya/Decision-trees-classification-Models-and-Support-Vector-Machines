@@ -9,7 +9,8 @@ Build a model that determines whether or not the patient's symptoms indicate tha
   
   <img align="right" src="thyroid8.jpg" width="250" height="275">
   </p>
-
+<p align="center">
+   
 # Description
 
 ### Part 1: Decision trees:
@@ -18,6 +19,7 @@ Build a model that determines whether or not the patient's symptoms indicate tha
 * Random forests,
 * Ada boosted trees,
 * gradient boosted trees.
+</p>
 - optimization of each of the the above models to Identify the best model, and used the best model to determine which features are most impactful in influencing the prediction
 
 ### Part 2: SVM:
