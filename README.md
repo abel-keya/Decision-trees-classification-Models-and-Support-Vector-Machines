@@ -35,7 +35,7 @@ Hypothyroidism is a condition in which the thyroid gland is not able to produce 
   </p>
   <p align="center">
    
-   Clinical procedure used for obtaining datat
+   Clinical procedure used for obtaining data:
  
  (https://www.youtube.com/watch?v=iIO09kGSRkI)
   
@@ -56,7 +56,7 @@ The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-c
 > * Save a copy of the notebook in your drive and open it to access.
 # Technologies used
 <p>
-  <img src="tech3.jpg" width="850" height="250" align="center" alt="DS" title="Requirements" />
+  <img align="center"  src="tech3.jpg" width="350" height="200" align="center" alt="DS" title="Requirements" />
  
 </p>
 
