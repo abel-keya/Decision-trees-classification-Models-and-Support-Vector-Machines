@@ -60,7 +60,8 @@ The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-c
    # Technologies used:
    
  <p align="center"> 
-  <img   src="tech3.jpg" width="350" height="200"  alt="DS" title="Requirements" />
+   
+  <img   src="tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
  
 </p>
 
