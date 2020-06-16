@@ -54,8 +54,11 @@ The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-c
 * Google colab
 * Setup instruction
 > * Save a copy of the notebook in your drive and open it to access.
-# Technologies used
-<p>
+
+<p align="center">
+   
+   # Technologies used:
+   
   <img align="center"  src="tech3.jpg" width="350" height="200" align="center" alt="DS" title="Requirements" />
  
 </p>
