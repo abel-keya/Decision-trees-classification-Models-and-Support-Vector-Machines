@@ -1,8 +1,10 @@
 # week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism
 
-**Problem statement:** Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:  
+**Problem statement:**  
 
-Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
+Build a model that predicts whether or not the patient's has hypothyroid  clinical  test data collected at Nairobi Hospital 
+
+Use the healthcare datasets provided to accomplish the following: .
    
 # Description
 
