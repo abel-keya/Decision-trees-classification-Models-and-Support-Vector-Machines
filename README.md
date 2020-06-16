@@ -31,7 +31,7 @@ Hypothyroidism is a condition in which the thyroid gland is not able to produce 
    </p>
    
    <p align="center">
-   <img align="center" src="thyroid1.jpg" width="300" height="200" align="center">
+   <img align="center" src="thyroid1.jpg" width="350" height="200" align="center">
   
   <img align="center" src="thyroidfunction.gif" width="200" height="250">
   </p>
