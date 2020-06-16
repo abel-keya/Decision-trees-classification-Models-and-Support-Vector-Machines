@@ -3,13 +3,6 @@
 **Problem statement:** Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:  
 
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
-
-<p align="center">
-   <img align="center" src="thyroid1.jpg" width="275" height="200" align="center">
-  
-  <img align="center" src="thyroid8.jpg" width="275" height="200">
-  </p>
-<p align="center">
    
 # Description
 
@@ -30,9 +23,18 @@ visualization of  the models created.
 
 # Context
 <p>
-### Hypothyroidism: (Underactive Thyroid) Too Little Thyroid Hormone
+   
+### Hypothyroidism: (Underactive Thyroid)-Too Little Thyroid Hormone
 Hypothyroidism is a condition in which the thyroid gland is not able to produce enough thyroid hormone. Since the main purpose of thyroid hormone is to "run the body's metabolism," it is understandable that people with this condition will have symptoms associated with a slow metabolism.
    </p>
+   
+   <p align="center">
+   <img align="center" src="thyroid1.jpg" width="275" height="200" align="center">
+  
+  <img align="center" src="thyroid8.jpg" width="275" height="200">
+  </p>
+  <p align="center">
+   
    Clinical procedure used for obtaining datat
  
  (https://www.youtube.com/watch?v=iIO09kGSRkI)
