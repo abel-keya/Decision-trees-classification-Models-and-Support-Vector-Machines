@@ -27,7 +27,7 @@ visualization of  the models created.
 
 # Context
 
-
+ ![Thyroid](giphy.gif) 
 
 <p>
    
