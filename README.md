@@ -27,7 +27,7 @@ visualization of  the models created.
 
 # Context
 
- ![Thyroid](anima1.gif) 
+
 
 <p>
    
@@ -42,7 +42,7 @@ Hypothyroidism is a condition in which the thyroid gland is not able to produce 
   <img align="center" src="thyroidfunction.gif" width="200" height="250">
   
   </p>
-  
+  ![Thyroid](anima1.gif) 
   <p align="center">
    
    Clinical procedure used for obtaining data:
