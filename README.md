@@ -5,7 +5,7 @@
 Build a model that predicts whether or not the patient's has hypothyroid  clinical  test data collected at Nairobi Hospital 
 
 Use the healthcare datasets provided to accomplish the following: .
- ![Thyroid](anima.gif)  
+  
 # Description
 
 ### Solution 1: Decision trees classification Models:
@@ -34,6 +34,7 @@ Hypothyroidism is a condition in which the thyroid gland is not able to produce 
    <img align="center" src="thyroid1.jpg" width="350" height="250" align="center">
   
   <img align="center" src="thyroidfunction.gif" width="200" height="250">
+  ![Thyroid](anima.gif) 
   </p>
   <p align="center">
    
