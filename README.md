@@ -4,7 +4,9 @@
 
 Build a model that predicts whether or not the patient's has hypothyroid  clinical  test data collected at Nairobi Hospital 
 
-Use the healthcare datasets provided to accomplish the following: .
+
+  ![Thyroid](anima.gif) 
+  
   
 # Description
 
