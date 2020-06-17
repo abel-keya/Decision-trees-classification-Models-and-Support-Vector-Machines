@@ -27,7 +27,7 @@ visualization of  the models created.
 
 # Context
 
- ![Thyroid](anima.gif) 
+ ![Thyroid](anima1.gif) 
 
 <p>
    
