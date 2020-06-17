@@ -5,7 +5,7 @@
 Build a model that predicts whether or not the patient's has hypothyroid  clinical  test data collected at Nairobi Hospital 
 
 Use the healthcare datasets provided to accomplish the following: .
- ![Thyroid](thyroidfunction.gif)  
+ ![Thyroid](anima.gif)  
 # Description
 
 ### Solution 1: Decision trees classification Models:
