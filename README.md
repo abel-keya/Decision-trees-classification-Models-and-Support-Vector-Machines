@@ -26,17 +26,15 @@ Build a model that predicts whether or not the patient's has hypothyroid  clinic
 visualization of  the models created. 
 
 # Context
- <p align="center">
-  ![Thyroid](anima.gif) 
- </p>
+
+ ![Thyroid](anima.gif) 
+
 <p>
    
 ### Hypothyroidism: (Underactive Thyroid)-Too Little Thyroid Hormone
 Hypothyroidism is a condition in which the thyroid gland is not able to produce enough thyroid hormone. Since the main purpose of thyroid hormone is to "run the body's metabolism," it is understandable that people with this condition will have symptoms associated with a slow metabolism.
- <p align="center">
-  ![Thyroid](anima.gif) 
+ 
  </p>
-   </p>
    
    <p align="center">
    <img align="center" src="thyroid1.jpg" width="350" height="250" align="center">
