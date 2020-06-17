@@ -33,10 +33,9 @@ The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-c
 
 **Dataset Columns**
 * Age, Sex, on_thyroxine, query_on_thyroxine,on_antithyroid_medicationthyroid_surgery,query_hypothyroid,query_hyperthyroid,pregnant,sick,tumor,lithium,goitre,TSH_measured,TSH,T3_measured,T3,TT4_measured,TT4
+
 # Context
 
- ![Thyroid](giphy.gif) 
- ![Thyroid](anima1.gif) 
 <p>
    
 ### Hypothyroidism: (Underactive Thyroid)-Too Little Thyroid Hormone
@@ -52,6 +51,10 @@ Hypothyroidism is a condition in which the thyroid gland is not able to produce 
   </p>
   
   <p align="center">
+
+ ![Thyroid](giphy.gif) 
+ ![Thyroid](anima1.gif) 
+
    
    Clinical procedure used for obtaining data:
  
