@@ -24,6 +24,9 @@ Use the healthcare datasets provided to accomplish the following: .
 visualization of  the models created. 
 
 # Context
+ <p align="center">
+  ![Thyroid](anima.gif) 
+ </p>
 <p>
    
 ### Hypothyroidism: (Underactive Thyroid)-Too Little Thyroid Hormone
@@ -36,9 +39,7 @@ Hypothyroidism is a condition in which the thyroid gland is not able to produce 
   <img align="center" src="thyroidfunction.gif" width="200" height="250">
   
   </p>
-   <p align="center">
-  ![Thyroid](anima.gif) 
-    </p>
+  
   <p align="center">
    
    Clinical procedure used for obtaining data:
