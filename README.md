@@ -25,6 +25,14 @@ Build a model that predicts whether or not the patient's has hypothyroid  clinic
 - the best kernel is  used with tuned parameters and  additional features. 
 visualization of  the models created. 
 
+
+# Data Features
+Dataset
+
+The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv) has the following features:
+
+**Dataset Columns**
+* Age, Sex, on_thyroxine, query_on_thyroxine,on_antithyroid_medicationthyroid_surgery,query_hypothyroid,query_hyperthyroid,pregnant,sick,tumor,lithium,goitre,TSH_measured,TSH,T3_measured,T3,TT4_measured,TT4
 # Context
 
  ![Thyroid](giphy.gif) 
@@ -50,14 +58,6 @@ Hypothyroidism is a condition in which the thyroid gland is not able to produce 
  (https://www.youtube.com/watch?v=iIO09kGSRkI)
   
  (https://www.youtube.com/watch?v=XR4nOMp_bGA)
-
-# Data Features
-Dataset
-
-The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv) has the following features:
-
-**Dataset Columns**
-* Age, Sex, on_thyroxine, query_on_thyroxine,on_antithyroid_medicationthyroid_surgery,query_hypothyroid,query_hyperthyroid,pregnant,sick,tumor,lithium,goitre,TSH_measured,TSH,T3_measured,T3,TT4_measured,TT4
 
 # Requirements
 * Anaconda installation
